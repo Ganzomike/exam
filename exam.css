@@ -1,0 +1,146 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.heading-section {
+    display: flex;
+    justify-content: flex-end;
+}
+.heading-nav {
+    display: flex;
+    margin-right: 80px;
+    margin-top: 44px;
+    gap: 30px;
+}
+
+.heading-samsung {
+    width: 140px;
+    height: 20.83px;
+    position: absolute;
+    top: 66px;
+    left: 30px;
+}
+.heading-nav p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+.heading-lines {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 53px;
+    right: 30px;
+
+}
+.section1 {
+    height: 750px;
+    background-image: url(./Z\ fold.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+}
+.section1 p {
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 105px;
+    align-self: center;   
+}
+.section2 {
+    display: flex;
+    /* height: 486px; */
+}
+.section2-item1 {
+    background-image: url(./man\ holding\ phone.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 50vw;
+    height: 486px;
+}
+.section2-item1 p {
+    font-weight: 600;
+    font-size: 30px;
+    /* width: 298px; */
+    color: #FFFFFF;
+}
+.section2-item2 {
+    background-image: url(./zfold\ pink.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 50vw;
+}
+.section2-item2 p {
+    font-weight: 600px;
+    font-size: 30px;
+    color: #FFFFFF;
+    /* width: 309px; */
+    position: absolute;
+    right: 30px;
+}
+.section3-row1 {
+    font-weight: 600;
+    font-size: 32px;
+}
+.section3-row2 {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    background-color: rgb(229, 229, 229);
+}
+#background {
+    background-color: blue;
+}
+.section3-row2-item {
+    width: 100vw;
+}
+.section3-row2-item p {
+    font-weight: 600;
+    font-size: 23px;
+    text-align: center;
+}
+.section3-row3 {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+}
+.section3-row3 p {
+    font-weight: 600;
+    font-size: 23px;
+    text-align: center;
+}
+footer {
+    height: 231px;
+    background-color: #ffffff;
+}
+.footer-col1 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.footer-col1 p {
+    font-weight: 400;
+    font-size: 18px;
+    color: #999999;
+}
+.footer-col2 {
+    display: flex;
+    align-items: center;
+}
+.footer-col2 img {
+    width: 86px;
+    height: 12.79px;
+    margin-right: 35px;
+}
+.footer-col2 p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #666666;
+}
+.footer-col3 {
+    display: flex;
+}
+.footer-col3 p {
+    font-weight: 400;
+    font-size: 12px;
+    color: #666666;
+}
